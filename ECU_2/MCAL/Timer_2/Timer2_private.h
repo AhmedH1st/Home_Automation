@@ -1,0 +1,7 @@
+
+#ifndef TIMER_2_TIMER2_PRIVATE_H_
+#define TIMER_2_TIMER2_PRIVATE_H_
+#define CPUCLK   16000000
+
+
+#endif /* TIMER_2_TIMER2_PRIVATE_H_ */

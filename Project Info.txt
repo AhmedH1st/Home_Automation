@@ -1,0 +1,7 @@
+Two MCUs (ATMEGA32) connected to each other through Ex-Interrupt, 
+the 1st ECU is responsible of the Authentication (using methods of finger print and PIN with ability to modify and reset settings).
+the 2nd ECU is responsible of Home Appliances Control using TCP Connection over WIFI providing the ability to control
+luminaire of RGB (Colour & Dynamic Intensity), Fan Speed and Logout state.
+
+for more info (Block Diagram,Flow Chart,Running Video):
+https://drive.google.com/drive/folders/1kcN6PUbmLX2CNdFwMRA5JW4OV9b38eN9

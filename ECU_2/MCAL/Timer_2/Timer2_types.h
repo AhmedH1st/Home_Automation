@@ -1,0 +1,56 @@
+
+#ifndef TIMER_2_TIMER2_TYPES_H_
+#define TIMER_2_TIMER2_TYPES_H_
+
+/*typedef enum{
+	TIMER2_NORMAL,
+	TIMER2_PWM_PHASECORRECT,
+	TIMER2_CTC,
+	TIMER2_FASTPWM
+
+}Timer2_mode_t;
+
+typedef enum{
+	TIMER2_CTC_NORMAL_OC_DISCONNECT,
+	TIMER2_CTC_TOGGLE,
+	TIMER2_CTC_CLEAR,
+	TIMER2_CTC_SET
+}Timer2_CTC_mode_t;
+
+typedef enum {
+	TIMER2_PWM_NORMAL_OC_DISCONNECT,
+	TIMER2_PWM_NONE,
+	TIMER2_PWM_NON_INVERTING,
+	TIMER2_PWM_INVERTING
+}Timer2_PWM_mode_t;
+
+
+typedef enum {
+	TIMER2_TIMEROFF,
+	TIMER2_NOPRESCALING,
+	TIMER2_PRESCALER_8,
+	TIMER2_PRESCALER_64,
+	TIMER2_PRESCALER_256,
+	TIMER2_PRESCALER_1024,
+	TIMER2_EXTERNALCLK_FALLINGEDGE,
+	TIMER2_EXTERNALCLK_RISINGEDGE
+
+}Timer2_Prescaler_t;
+
+typedef enum{
+	TIMER2_OV,
+	TIMER2_OCM
+}Interrupt_t;
+
+
+
+
+typedef struct{
+	Timer2_mode_t mode;
+	Timer2_CTC_mode_t ctc_mode;
+	Timer2_PWM_mode_t pwm_mode;
+	//Timer2_Prescaler_t prescaler;
+
+}Timer2_cfg_t;*/
+
+#endif /* TIMER_2_TIMER2_TYPES_H_ */

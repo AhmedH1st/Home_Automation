@@ -1,0 +1,6 @@
+#ifndef TEMP_SENSOR_LM35_TYPES_H_
+#define TEMP_SENSOR_LM35_TYPES_H_
+
+
+
+#endif /* TEMP_SENSOR_LM35_TYPES_H_ */
